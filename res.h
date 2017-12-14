@@ -7,6 +7,8 @@
 #define TIMER_INTERVAL 200
 
 //from windows
+#ifndef SND_RESOURCE
 #define SND_RESOURCE    0x00040004L
+#endif
 
 LPCSTR AppName = " ";
