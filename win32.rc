@@ -1,0 +1,5 @@
+#include "res.h"
+
+ID_EMF1 ENHANCEDMETAFILE ghost.emf
+IDW_WAV1 WAVE shion1.wav
+IDW_WAV2 WAVE shion2.wav
